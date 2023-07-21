@@ -3,7 +3,7 @@
 
 - 💻 Currently working on **developing plugins for QGIS as a developer, I'm mainly programming in Python.**
 
-- 🥷 I’m currently working with **Python and SQL. I'm also learning JS to work in WebGIS.**
+- 📩 I’m currently working with **Python and SQL. I'm also learning JS to work in WebGIS.**
 
 
 <h3 align="center">Languages and Tools:</h3>
