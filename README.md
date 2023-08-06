@@ -11,5 +11,5 @@
 
 <h4 align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wojtek19022&show_icons=true&locale=en&layout=compact&theme=transparent" alt="wojtek19022" width="700" height="80" /></p></h4>
 
-<h5 align="center"><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wojtek19022&theme=transparent" alt="wojtek19022"/><img src="https://github-readme-stats.vercel.app/api?username=wojtek19022&show_icons=true&locale=en&theme=transparent" alt="wojtek19022"/></p></h5>
+<h5 align="center"><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wojtek19022&theme=transparent" alt="wojtek19022" width="1200" height="120" /><img src="https://github-readme-stats.vercel.app/api?username=wojtek19022&show_icons=true&locale=en&theme=transparent" alt="wojtek19022" width="1200" height="120"/></p></h5>
  
