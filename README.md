@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Wojciech</h1>
-<h3 align="center">A Python programmer from Warsaw in Poland</h3>
+<h3 align="center">A GIS Developer from Warsaw in Poland</h3>
 
 - 💻 Currently working on **developing plugins for QGIS as a developer, I'm mainly programming in Python.**
 
-- 📩 I’m currently working with technologies displayed below.
+- 📩 I’m also working with technologies displayed below.
 
 
 <h3 align="center">Languages and Tools:</h3>
