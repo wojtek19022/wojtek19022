@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Wojciech</h1>
-<h3 align="center">A GIS Developer from Warsaw in Poland</h3>
+<h3 align="center">GIS Developer from Warsaw in Poland</h3>
 
 - 💻 Currently working on **developing plugins for QGIS as a developer, I'm mainly programming in Python.**
 
