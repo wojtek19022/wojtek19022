@@ -20,5 +20,10 @@
  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="32" height="32"/> </a>
 </p>
 
-<h5 align="center"><p><a><img src="https://github-readme-streak-stats.herokuapp.com/?user=wojtek19022&theme=transparent" alt="wojtek19022" /></a><a><img src="https://github-readme-stats.vercel.app/api?username=wojtek19022&show_icons=true&locale=en&theme=transparent" alt="wojtek19022"/></a></p></h5>
+<h5 align="center">
+ <p>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=wojtek19022&theme=transparent" alt="wojtek19022" /></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=wojtek19022&show_icons=true&locale=en&theme=transparent" alt="wojtek19022"/></a>
+ </p>
+</h5>
  
