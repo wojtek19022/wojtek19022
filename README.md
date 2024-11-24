@@ -25,8 +25,8 @@
 <h5 align="center">
  <p>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wojtek19022&locale=pl&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/></a>
-  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=wojtek19022&theme=transparent" alt="wojtek19022" /></a>
-  <a><img src="https://github-readme-stats.vercel.app/api?username=wojtek19022&show_icons=true&locale=pl&theme=transparent" alt="wojtek19022"/></a>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=wojtek19022&theme=transparent" alt="wojtek19022" height="150"/></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=wojtek19022&show_icons=true&locale=pl&theme=transparent" alt="wojtek19022" height="150"/></a>
  </p>
 </h5>
  
