@@ -6,7 +6,7 @@
 - 📩 I’m also working with technologies displayed below.
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h2>🛠️ Tech Stack</h2>
 <p align="center"> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
@@ -22,6 +22,7 @@
  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="32" height="32"/> </a>
 </p>
 
+<h2>📊 GitHub Stats</h2>
 <h5 align="center">
  <p>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wojtek19022&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/></a>
