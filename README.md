@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Wojciech</h1>
+<h1 align="center"><b>Hi , I'm Wojciech Sołyga </b>👋</h1>
 <h3 align="center">GIS Developer from Warsaw in Poland</h3>
 
 - 💻 Currently working on **developing plugins for QGIS as a GIS Developer, I'm mainly programming in Python.**
